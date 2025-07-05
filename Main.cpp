@@ -8,14 +8,14 @@
 using namespace std;
 // A função main realizará os testes e também ajudará um script python a gerar uma tabela que contém os dados brutos
 int main() {
-    //Parâmetros do teste, conforme a metodologia
+//Parâmetros do teste, conforme a metodologia
     vector<int> tamanhos = {1000, 5000, 10000, 20000, 40000};
     vector<string> tiposDeVetor = {"Aleatorio", "Quase Ordenado", "Inversamente Ordenado"};
 
-    //Imprime o cabeçalho do CSV
+//Imprime o cabeçalho do CSV
     cout << "Algoritmo,Tipo,Tamanho,Tempo(s),Comparacoes,Trocas\n";
 
-    //Laço principal para percorrer todos os cenários de teste
+//Laço principal para percorrer todos os cenários de teste
     for (int tamanho : tamanhos) {
         for (const string& tipo : tiposDeVetor) {
             
