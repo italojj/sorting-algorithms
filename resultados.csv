@@ -1,0 +1,72 @@
+Algoritmo,Tipo,Tamanho,Tempo(s),Comparacoes,Trocas
+Bubble Sort,Aleatorio,1000,0.015621,499500,252832
+Selection Sort,Aleatorio,1000,0.000000,499500,991
+Insertion Sort,Aleatorio,1000,0.000000,253827,252832
+Merge Sort,Aleatorio,1000,0.000000,8689,9976
+Quick Sort,Aleatorio,1000,0.000000,11050,7067
+Bubble Sort,Quase Ordenado,1000,0.000000,499500,53130
+Selection Sort,Quase Ordenado,1000,0.015592,499500,100
+Insertion Sort,Quase Ordenado,1000,0.000000,54129,53130
+Merge Sort,Quase Ordenado,1000,0.000000,8204,9976
+Quick Sort,Quase Ordenado,1000,0.000000,23284,13559
+Bubble Sort,Inversamente Ordenado,1000,0.000000,499500,499500
+Selection Sort,Inversamente Ordenado,1000,0.000000,499500,500
+Insertion Sort,Inversamente Ordenado,1000,0.015664,499500,499500
+Merge Sort,Inversamente Ordenado,1000,0.000000,4932,9976
+Quick Sort,Inversamente Ordenado,1000,0.006920,499500,250499
+Bubble Sort,Aleatorio,5000,0.183267,12497500,6200775
+Selection Sort,Aleatorio,5000,0.065578,12497500,4993
+Insertion Sort,Aleatorio,5000,0.048627,6205770,6200775
+Merge Sort,Aleatorio,5000,0.016079,55233,61808
+Quick Sort,Aleatorio,5000,0.000594,67500,38180
+Bubble Sort,Quase Ordenado,5000,0.089954,12497500,1410368
+Selection Sort,Quase Ordenado,5000,0.077001,12497500,500
+Insertion Sort,Quase Ordenado,5000,0.000000,1415365,1410368
+Merge Sort,Quase Ordenado,5000,0.016695,52578,61808
+Quick Sort,Quase Ordenado,5000,0.000000,131802,76778
+Bubble Sort,Inversamente Ordenado,5000,0.205627,12497500,12497500
+Selection Sort,Inversamente Ordenado,5000,0.061200,12497500,2500
+Insertion Sort,Inversamente Ordenado,5000,0.116838,12497500,12497500
+Merge Sort,Inversamente Ordenado,5000,0.000000,29804,61808
+Quick Sort,Inversamente Ordenado,5000,0.134702,12497500,6252499
+Bubble Sort,Aleatorio,10000,0.989769,49995000,24905679
+Selection Sort,Aleatorio,10000,0.320073,49995000,9986
+Insertion Sort,Aleatorio,10000,0.222914,24915673,24905679
+Merge Sort,Aleatorio,10000,0.015623,120387,133616
+Quick Sort,Aleatorio,10000,0.000000,166035,90630
+Bubble Sort,Quase Ordenado,10000,0.392243,49995000,5789136
+Selection Sort,Quase Ordenado,10000,0.317314,49995000,1000
+Insertion Sort,Quase Ordenado,10000,0.057833,5799133,5789136
+Merge Sort,Quase Ordenado,10000,0.006147,115317,133616
+Quick Sort,Quase Ordenado,10000,0.004000,364475,231519
+Bubble Sort,Inversamente Ordenado,10000,0.770135,49995000,49995000
+Selection Sort,Inversamente Ordenado,10000,0.270105,49995000,5000
+Insertion Sort,Inversamente Ordenado,10000,0.435912,49995000,49995000
+Merge Sort,Inversamente Ordenado,10000,0.000000,64608,133616
+Quick Sort,Inversamente Ordenado,10000,0.617217,49995000,25004999
+Bubble Sort,Aleatorio,20000,3.493786,199990000,98972423
+Selection Sort,Aleatorio,20000,1.262870,199990000,19993
+Insertion Sort,Aleatorio,20000,0.823060,98992417,98972423
+Merge Sort,Aleatorio,20000,0.015591,260833,287232
+Quick Sort,Aleatorio,20000,0.000000,326668,182491
+Bubble Sort,Quase Ordenado,20000,1.815585,199990000,22407128
+Selection Sort,Quase Ordenado,20000,1.345419,199990000,2000
+Insertion Sort,Quase Ordenado,20000,0.192063,22427125,22407128
+Merge Sort,Quase Ordenado,20000,0.013036,250589,287232
+Quick Sort,Quase Ordenado,20000,0.011003,1013419,703352
+Bubble Sort,Inversamente Ordenado,20000,3.357435,199990000,199990000
+Selection Sort,Inversamente Ordenado,20000,1.160059,199990000,10000
+Insertion Sort,Inversamente Ordenado,20000,1.614132,199990000,199990000
+Merge Sort,Inversamente Ordenado,20000,0.000000,139216,287232
+Quick Sort,Inversamente Ordenado,20000,1.807099,199990000,100009999
+Bubble Sort,Aleatorio,40000,12.162213,799980000,400563250
+Selection Sort,Aleatorio,40000,4.404595,799980000,39990
+Insertion Sort,Aleatorio,40000,3.292216,400603243,400563250
+Merge Sort,Aleatorio,40000,0.031287,561719,614464
+Quick Sort,Aleatorio,40000,0.000000,775480,390561
+Bubble Sort,Quase Ordenado,40000,6.156346,799980000,91352160
+Selection Sort,Quase Ordenado,40000,4.336711,799980000,4000
+Insertion Sort,Quase Ordenado,40000,0.737236,91392159,91352160
+Merge Sort,Quase Ordenado,40000,0.040439,542043,614464
+Quick Sort,Quase Ordenado,40000,0.020997,1913304,1153343
+Bubble Sor
