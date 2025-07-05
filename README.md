@@ -4,7 +4,7 @@ Este repositório contém o código-fonte de algoritmos implementados em C++ e u
 Para compilar (caso necessário)
 
 C++:
-para compilar, "g++ main.cpp algoritmos.cpp -o programa_teste"
+para compilar, "g++ Main.cpp algoritmos.cpp -o programa_teste"
 para executar, "programa_teste.exe"
 
 Python:
@@ -17,6 +17,6 @@ algoritmos.h: Arquivo de cabeçalho que declara as funções e estruturas dos al
 
 algoritmos.cpp: Arquivo de implementação com a lógica dos algoritmos.
 
-main.cpp: O programa principal que organiza e executa os testes.
+Main.cpp: O programa principal que organiza e executa os testes.
 
 analise.py: Script em Python que lê os resultados e gera a análise.
